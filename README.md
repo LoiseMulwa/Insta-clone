@@ -48,5 +48,5 @@ To run the application, in your terminal:
 #### License
 Click to view License [Click to view license](LICENSE)
 #### Authors Info
-Name -Loise Mulwa.
-Linked in- https://www.linkedin.com/in/loise-mulwa-961391224/.
+* Name -Loise Mulwa.
+* Linked in- https://www.linkedin.com/in/loise-mulwa-961391224/.
