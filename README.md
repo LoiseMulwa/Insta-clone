@@ -48,11 +48,14 @@ To run the application, in your terminal:
 
 #### Navigate into the folder and install requirements  
  ```bash 
-cd gallery pipenv  install -r requirements.txt 
+cd insta pipenv  install -r requirements.txt 
 #### Install Dependencies  
  ```bash 
  pipenv install -r requirements.txt 
+
 ```  
+
+
 ##### Setup Database  
   SetUp your database User,Password, Host then make migrate  
  ```bash 
@@ -61,17 +64,15 @@ python manage.py makemigrations <database name>
  Now Migrate  
  ```bash 
  python manage.py migrate 
-
-### run app
- ```bash 
- python manage.py runserver 
-```  
-##### Runing the application 
- ```bash 
- python manage.py runserver
-
-License
+ #### Running the application
+python manage.py runserver
+ ### LICENSE
 Click to view License [Click to view license](LICENSE)
-Authors Info
+#### Author's Info
 * Name -Loise Mulwa.
 * Linked in- https://www.linkedin.com/in/loise-mulwa-961391224/.
+ 
+
+
+
+
