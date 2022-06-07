@@ -26,10 +26,10 @@ urlpatterns = [
     # url('',views.home,name = 'home'),
     url('home/', views.home, name='home'),
     url('search/', views.search_results,name='search_results'),
-    # url('comments/<image_id>', views.comments,name='comments'),
-    # url('like/',views.like_post, name='like_post'),
-    # url('accounts/profile/', views.home,name='profilee'),
-    # url('upload', views.upload, name="upload"),
+    url('comments/<image_id>', views.comments,name='comments'),
+    url('like/',views.like_post, name='like_post'),
+    url('accounts/profile/', views.home,name='profilee'),
+    url('upload', views.upload, name="upload"),
     
     
 ]
