@@ -1,20 +1,22 @@
-# PITCH~APP
+# INSTAGRAM~~CLONE
 ## Built By Loise Mulwa.
 ### Description
-Flask Pitch application allows users to submit their one minute pitches and other users can upvote or download on them and also have a chance to comment on their pitch.
-
+Django framework application that resembles the Instagram app.A user have to be authenticated into the app then he can upload his/her images,like for others and also comment.
 
 ### User Stories
 These are the behaviours/features that the application implements for use by a user.
 
 #### As a user I would like:
+* To the application to start using.
+* Upload my pictures to the application.
+* See my profile with all my pictures.
+* Follow other users and see their pictures on my timeline.
+* Like a picture and leave a comment on it.
 
-* To open the app
-* As a user, I would like to see the pitches other people have posted.
-* Vote on the pitch they liked and give it a downvote or upvote.
-* Be signed in for me to leave a comment
-* As a user, I would like to submit a pitch in any category.
-* As a user, I would like to view the different categories.
+
+
+
+
 
 
 ### SetUp / Installation Requirements
@@ -25,7 +27,7 @@ These are the behaviours/features that the application implements for use by a u
 ### Cloning
 In your terminal:
 
- * $ git clone https://github.com/LoiseMulwa/pitch_master.git
+ * $ git clone https://github.com/LoiseMulwa/Insta-clone
  * $ cd app
  
 ### Running the Application
@@ -41,7 +43,7 @@ To run the application, in your terminal:
 * HTML
 * CSS
 * Bootstrap
-* Flask
+* Django
 * Heroku
 #### License
 Click to view License [Click to view license](LICENSE)
