@@ -69,8 +69,9 @@ python manage.py makemigrations <database name>
 ##### Runing the application 
  ```bash 
  python manage.py runserver
-#### License
+
+License
 Click to view License [Click to view license](LICENSE)
-#### Authors Info
+Authors Info
 * Name -Loise Mulwa.
 * Linked in- https://www.linkedin.com/in/loise-mulwa-961391224/.
