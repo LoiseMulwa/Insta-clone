@@ -48,14 +48,14 @@ To run the application, in your terminal:
 
 #### Navigate into the folder and install requirements  
  ```bash 
-cd insta pipenv  install -r requirements.txt 
+cd insta pip  install -r requirements.txt 
 
 
-Click to view License [Click to view license](LICENSE)
+
 
 #### Install Dependencies  
  ```bash 
- pipenv install -r requirements.txt 
+ pip install -r requirements.txt 
 
 ```  
 
@@ -70,6 +70,9 @@ python manage.py makemigrations <database name>
  python manage.py migrate 
  #### Running the application
 python manage.py runserver
+
+### License
+Click to view License [Click to view license](LICENSE)
  
 #### Author's Info
 * Name -Loise Mulwa.
